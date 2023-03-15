@@ -23,7 +23,7 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 ## License
 
-All code created in our repos are licensed under the [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0).
+All code created in our repos are licensed under GNU General Public License [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0).
 
 ## Contact Us
 
