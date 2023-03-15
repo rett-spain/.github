@@ -1,18 +1,6 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 # Rett Syndrome Spanish Association (AESR)
 
-<!--[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/[username]/[reponame]/actions)-->
-[![License](https://img.shields.io/badge/nposl-3-0)](https://opensource.org/license/nposl-3-0/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 Welcome to the Rett Syndrome Spanish Association GitHub repository! Our NGO is a non-profit organization dedicated to improving the quality of life of people affected by Rett Syndrome in Spain.
 Rett Syndrome is a rare neurological disorder that affects mainly females and causes severe physical and cognitive impairments.
@@ -35,7 +23,7 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 ## License
 
-All code created in our repos are licensed under the [Non-Profit Open Software License](https://opensource.org/license/nposl-3-0/).
+All code created in our repos are licensed under the [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0).
 
 ## Contact Us
 
