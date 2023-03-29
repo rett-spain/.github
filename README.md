@@ -1,2 +1,2 @@
 # .github
-Public organization profile
+This is our Public Organization Profile
